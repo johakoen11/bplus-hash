@@ -3,3 +3,4 @@ vim.opt.relativenumber = true
 vim.opt.expandtab = true
 vim.opt.smartcase = true
 vim.opt.signcolumn = 'yes'
+vim.opt.shiftwidth = 2
